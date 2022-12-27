@@ -1,7 +1,8 @@
-package com.example.uihomework
+package com.example.uihomework.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.uihomework.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

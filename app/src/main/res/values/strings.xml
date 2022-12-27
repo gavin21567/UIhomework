@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">UIhomework</string>
+    <string name="search_edittext_hint">請輸入「站名」</string>
+    <string name="search_input_empty_hint">輸入「站名」\n查詢該地區空汙資訊</string>
+    <string name="search_result_empty_hint">找不到「%1$s」\n相關的空汙資訊</string>
 </resources>
